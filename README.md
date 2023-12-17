@@ -13,6 +13,4 @@ npm start
 
 ```bash
 docker build -t calendar-app-backend:latest .
-
-docker-compose up -d
 ```
